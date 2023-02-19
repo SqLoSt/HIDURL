@@ -22,9 +22,8 @@ pkg update && pkg install git && git clone https://github.com/SqLoSt/HIDURL
 - Add some engineering words (don't use slash) ``userid-lmao-29368262``
 Output : ``https://urlyouwant.com-userid-lmao-29368262/isgd@.co/EXAMP``
 
-##Contact us!
-- ***Sqlost#6660*** - Discord May be  Closed.
-- **Our [discord server](https://discord.gg/fXJgZVGbE6)**
+#### ☕ | Contact us!
+- ***SqLoSt#6660*** - Discord May be  Closed , preferred option
+- **Our [discord server](https://discord.gg/aV2XGhRvup)** 
 - **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
-
 
